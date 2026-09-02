@@ -11,9 +11,9 @@ public class JavaApplication5 {
     public static void main(String[] args) {
         
         Calculadora c1 = new Calculadora();
-        System.out.println(c1.Sumar(4, 5));
-        System.out.println(c1.Sumar(89,45,60));
-        System.out.println(c1.Sumar(45.8,64.3));
+        System.out.println(c1.Adicion(4, 5));
+        System.out.println(c1.Adicion(89,45,60));
+        System.out.println(c1.Adicion(45.8,64.3));
     }
     
 }

@@ -10,13 +10,13 @@ package javaapplication5;
  */
 public class Calculadora {
   
-    public int Sumar(int a, int b){
+    public int Adicion(int a, int b){
       return a+b;
     }  
-    public int Sumar(int a, int b, int c){
+    public int Adicion(int a, int b, int c){
         return a+b+c;
     }
-    public double Sumar(double a, double b){
+    public double Adicion(double a, double b){
         return a+b;
     }
 }
